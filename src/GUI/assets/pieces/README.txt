@@ -1,0 +1,1 @@
+piece-set taken from: https://github.com/Little-Mage/ShogiGUI-piece-sets
